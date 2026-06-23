@@ -159,8 +159,4 @@ O jogo salva em um arquivo chamado `savegame_final.txt` no diretório atual. O a
 
 ## Autor
 
-Desenvolvido como Projeto Final para a disciplina de Introdução à Computação.
-
-## Licença
-
-Este projeto é fornecido para fins educacionais.
+Isplay136
